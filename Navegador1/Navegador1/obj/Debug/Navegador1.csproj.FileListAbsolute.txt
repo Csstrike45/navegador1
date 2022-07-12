@@ -1,0 +1,10 @@
+C:\Users\csstr\source\repos\Navegador1\Navegador1\bin\Debug\Navegador1.exe.config
+C:\Users\csstr\source\repos\Navegador1\Navegador1\bin\Debug\Navegador1.exe
+C:\Users\csstr\source\repos\Navegador1\Navegador1\bin\Debug\Navegador1.pdb
+C:\Users\csstr\source\repos\Navegador1\Navegador1\obj\Debug\Navegador1.csproj.AssemblyReference.cache
+C:\Users\csstr\source\repos\Navegador1\Navegador1\obj\Debug\Navegador1.Form1.resources
+C:\Users\csstr\source\repos\Navegador1\Navegador1\obj\Debug\Navegador1.Properties.Resources.resources
+C:\Users\csstr\source\repos\Navegador1\Navegador1\obj\Debug\Navegador1.csproj.GenerateResource.cache
+C:\Users\csstr\source\repos\Navegador1\Navegador1\obj\Debug\Navegador1.csproj.CoreCompileInputs.cache
+C:\Users\csstr\source\repos\Navegador1\Navegador1\obj\Debug\Navegador1.exe
+C:\Users\csstr\source\repos\Navegador1\Navegador1\obj\Debug\Navegador1.pdb
